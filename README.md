@@ -1,2 +1,3 @@
 # VIP-DarkHub Code Purple
-Dark CSS themes for userstyles.org
+
+Ubuntu terminal lovers GitHub code — A dark theme with texture, whites & blacks made soft, compiled from the best and tweaked to make code ridiculously easy to spot. Code is purple and links are orange. Used in the "Ink Is A Verb" YouTube channel "VIP Linux" tutorials.
