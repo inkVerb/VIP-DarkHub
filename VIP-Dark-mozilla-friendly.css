@@ -1,6 +1,6 @@
 /* VIP Dark */
 
-/*! VIP-DarkHub Code Purple v1.0 (2019-05-29) */
+/*! VIP-DarkHub Code Purple v1.1 (2019-05-29) */
 /* Repository: https://github.com/inkVerb/VIP-DarkHub    */
 /* Userstyle:  https://userstyles.org/styles/172338            */
 /* License:    https://creativecommons.org/licenses/by-sa/4.0/ */
@@ -13,6 +13,11 @@
 
 /* 2. Solarized Everything: Github */
   /* Userstyle:  https://userstyles.org/styles/127328/solarized-everything-github */
+
+/* Change Log */
+
+/* v1.1 */
+/* Applied to header in "issues" page */
 
 @-moz-document domain(github.com) {
 
@@ -57,7 +62,13 @@ a {
 a:visited {
   color: #684588 !important;
 }
-body {
+a.js-sticky, a.gh-header-shadow {
+  color: #1e8307 !important;
+}
+a.js-sticky:visited, a.gh-header-shadow:visited {
+  color: #684588 !important;
+}
+body, .js-sticky, .gh-header-shadow {
   background-color: #151515 !important;
   color: #93a9ab !important;
 }
