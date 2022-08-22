@@ -1,8 +1,8 @@
 # VIP-DarkHub Code Purple
 
-# :: With GitHub rolling out a native dark theme, this is no longer needed and it archived ::
+# :: With GitHub rolling out a native dark theme, this is no longer needed and is archived ::
 
-Linux terminal lovers' GitHub code — A dark theme with texture, whites & blacks made soft, compiled from the best and tweaked to make code ridiculously easy to spot. Code is purple and links are orange. Used in the "Ink Is A Verb" YouTube channel "VIP Linux" tutorials.
+Ubuntu terminal lovers' GitHub code — A dark theme with texture, whites & blacks made soft, compiled from the best and tweaked to make code ridiculously easy to spot. Code is purple and links are orange. Used in the "Ink Is A Verb" YouTube channel "VIP Linux" tutorials.
 
 Install it from [userstyles.org - VIP-DarkHub Code Purple](https://userstyles.org/styles/172338)
 
